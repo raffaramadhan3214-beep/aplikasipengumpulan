@@ -79,17 +79,7 @@ apkpengumpulantugas/
 │   │   │   ├── edit.php
 │   │   │   └── show.php
 │   │   │
-│   │   ├── penilaian/
-│   │   │   ├── index.php
-│   │   │   ├── create.php
-│   │   │   ├── edit.php
-│   │   │   └── show.php
-│   │   │
-│   │   └── komentar/
-│   │       ├── index.php
-│   │       ├── create.php
-│   │       ├── edit.php
-│   │       └── show.php
+│   │   
 │   │
 │   ├── siswa/                      # LOGIN SISWA
 │   │   ├── dashboardsiswa.php
